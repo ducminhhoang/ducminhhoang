@@ -6,12 +6,12 @@ I'm working at HIT Club. From HITer with love<3
 
 <h2> 📫 How to contact me: </h2>
 
-[![](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png)](ducminhhoangkhmt2@gmail.com) [![](https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico?_nc_eui2=AeGLysfdT3pDUcnvqoVNjMyrrSiY817De8atKJjzXsN7xgbVCaq5DyChrd-yK4XJUGgQajkZjl4nUei8jQa_Pq-k)](https://www.facebook.com/ducminhhoang2003/) 
+[![](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png)](https://www.google.com/ducminhhoangkhmt2) [![](https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico?_nc_eui2=AeGLysfdT3pDUcnvqoVNjMyrrSiY817De8atKJjzXsN7xgbVCaq5DyChrd-yK4XJUGgQajkZjl4nUei8jQa_Pq-k)](https://www.facebook.com/ducminhhoang2003/) 
 
-<hr>
 
 ![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducminhhoang&show_icons=true&theme=radical)
 
+<hr>
 <h2>Top My Reponsitories</h2>
 
 <a href="https://github.com/ducminhhoang/HIT_AI_2023">
