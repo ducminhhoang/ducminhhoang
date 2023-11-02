@@ -29,4 +29,4 @@ I'm working at HIT Club. From HITer with love<3
 
 <hr>
 
-<p align="right><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducminhhoang&show_icons=true&locale=en&layout=compact&theme=radical" alt="ducminhhoang" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducminhhoang&show_icons=true&locale=en&layout=compact&theme=radical" alt="ducminhhoang" /></p>
