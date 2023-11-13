@@ -8,11 +8,11 @@ I'm working at HIT Club. From HITer with love<3
 
 [![](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png)](https://www.google.com/ducminhhoangkhmt2) [![](https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico?_nc_eui2=AeGLysfdT3pDUcnvqoVNjMyrrSiY817De8atKJjzXsN7xgbVCaq5DyChrd-yK4XJUGgQajkZjl4nUei8jQa_Pq-k)](https://www.facebook.com/ducminhhoang2003/) 
 
+<div width="100%" height="auto">
 <p><img align="left" width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ducminhhoang&show_icons=true&locale=en&layout=compact&theme=radical" alt="ducminhhoang" /></p>
 
-<p><img align="right" width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducminhhoang&show_icons=true&locale=en&layout=compact&theme=radical" alt="ducminhhoang" /></p>
-
-<div></div>
+<p><img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducminhhoang&show_icons=true&locale=en&layout=compact&theme=radical" alt="ducminhhoang" /></p>
+</div>
 <hr>
 <h2>Top My Reponsitories</h2>
 
